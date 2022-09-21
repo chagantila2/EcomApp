@@ -1,6 +1,11 @@
-class First 
+
+class First
 {
   
-  System.out.println("First Java App");
+  int a, b,c;
+  
+  System.out.println("First Ecom Application");
+  System.out.println("First Ecom Application");
+
 
 }
